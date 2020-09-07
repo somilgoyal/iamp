@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Sender Name": "INPI"
+    }
+  ],
+  "value": [
+    {
+      "id": 1,
+      "body": "Cabinet Regimbeau",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "FR1450055",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "247748D33245",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "90.00",
+      "postId": 1
+    },
+    {
+      "id": 5,
+      "body": "15.11.2020",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Notice of Grant"
+  }
+}
